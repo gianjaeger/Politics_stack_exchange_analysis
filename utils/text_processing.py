@@ -3,7 +3,6 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from bs4 import BeautifulSoup
-import pandas as pd
 
 # Download required datasets (if not already downloaded)
 nltk.download('wordnet')
