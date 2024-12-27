@@ -1,0 +1,8 @@
+pandas
+lxml
+plotnine
+matplotlib
+scikit-learn
+nltk
+bs4
+seaborn
